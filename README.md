@@ -1,0 +1,2 @@
+# RockPaperScissors
+Rock, Paper, Scissors is a simple yet universally known hand game often used to make quick decisions or settle disputes. Players choose one of three shapes by typing 0, 1, or 2 which maps to Rock, Paper and Scissors. The game follows a basic rule: rock crushes scissors, scissors cuts paper, and paper covers rock. It's a game of chance, anticipation, and quick decision-making, often played for fun or as a playful way to resolve choices. 
